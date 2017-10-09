@@ -1,6 +1,6 @@
-##Todays's Assignment:
+## Todays's Assignment:
 
-#"My Favorite Animal!"
+# "My Favorite Animal!"
 
 > ~[Okay, you know programming? So what! That don't impress me much, So you got the code but have you got the touch? don't get me wrong, yeah your syntax is all that, but that wont keep me...](https://youtu.be/jQZTK6xJ1Bw?t=15s)~
 
@@ -10,8 +10,8 @@ Think of CSS as a **Customizable Wardrobe**, and the website as a doll, with CSS
 
 Today's Project aims to help you fall in love with, and learn of, the abilities of CSS.
 
-** ~~~~~~~~~~~~~~~~~~~~~~ **
-#Project:
+# **~~~~~~~~~~~~~~~~~~~~~~**
+# Project:
 
 Create your favorite animal using pure CSS and a boilerplate Html page (A very basic, almost empty, html page).
 
@@ -26,7 +26,7 @@ If you prefer videos, [I've got videos!](https://www.youtube.com/watch?annotatio
 
 
 
-##Step 2 (Approx. time: 5min):
+## Step 2 (Approx. time: 5min):
 
 Find Your Favorite Animal.
 
@@ -38,7 +38,7 @@ Sabrina: [Cats] (https://i.pinimg.com/originals/66/a9/b4/66a9b41a69c30c991066f71
 [More](https://www.pinterest.com/pin/526428643928805267/)
 
 
-##Step 3 (Appr. Time: Unkown):
+## Step 3 (Appr. Time: Unkown):
 
 Create your animal in CSS.
 
@@ -47,7 +47,7 @@ Create your animal in CSS.
 I will personally walk you through this step the first time.
 
 
-** ~~~~~~~~~~~~~~~~~~~~~~ **
+# **~~~~~~~~~~~~~~~~~~~~~~**
 Additional Resources:
 
 https://stackoverflow.com/questions/20803489/draw-a-curve-with-css
@@ -57,7 +57,7 @@ https://stackoverflow.com/questions/20803489/draw-a-curve-with-css
 Additional Notes:
 Remember not to try so hard today, Make a simple animal, it's only day 1 after all.
 
-** ~~~~~~~~~~~~~~~~~~~~~~ **
+# **~~~~~~~~~~~~~~~~~~~~~~**
 
 How can this project be used in the future?
 
