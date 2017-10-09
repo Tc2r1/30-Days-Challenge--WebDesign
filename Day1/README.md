@@ -63,3 +63,5 @@ How can this project be used in the future?
 
 CSS (Style Sheets) often take a backseat when most think of web design, However with CSS You can achieve amazing, magical effects on any website.
 Today, we make a cute animal, [Eventually we make magic!](https://codepen.io/davidkpiano/pen/kkpGWj)
+
+## [Day1 Example](http://htmlpreview.github.com/?https://github.com/Tc2r1/30-Days-Challenge--WebDesign/blob/master/Day1/_Example/index.html)
