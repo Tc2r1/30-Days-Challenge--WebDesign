@@ -1,65 +1,46 @@
 ## Todays's Assignment:
 
-# "My Favorite Animal!"
+# "Drumline!"
 
-> ~[Okay, you know programming? So what! That don't impress me much, So you got the code but have you got the touch? don't get me wrong, yeah your syntax is all that, but that wont keep me...](https://youtu.be/jQZTK6xJ1Bw?t=15s)~
+Yesterday's project had a focal point on the styles.css file and CSS In General, Today we'll focus on the JAVASCRIPT. Javascript is the brains of a webpage, its what we use to "make things happen".
+With that being said, Today's project already has the html.index and the styles.css premade for you. I know the programming bit can seem a bit scary at first, and because of this I selected a project for your first that comes with a VIDEO WALKTHROUGH  =) (yay cheers yay).
 
-Programming is only half of web design (which is why I think its awesome for artisty people.), The other half is **DESIGN!** When it comes to Design, CSS is your *style sheet*.
 
-Think of CSS as a **Customizable Wardrobe**, and the website as a doll, with CSS you can style it to look however you want.
-
-Today's Project aims to help you fall in love with, and learn of, the abilities of CSS.
+Today's Project aims to show you how javascript is used to connect the CSS and HTML Page and allow you to use them to change things based on what the user does (like clicking a button).
 
 # **~~~~~~~~~~~~~~~~~~~~~~**
 # Project:
 
-Create your favorite animal using pure CSS and a boilerplate Html page (A very basic, almost empty, html page).
+Add Functionility to the html.index page so when a user presses a button, it plays a sound and animates the button being pressed, Create A Drum Kit.
 
 
-## Step 1 (Approx. time: 40min):
+## Step1 (Approx. time: 10-20min):
 
-First learn how to make a Koala!
-
-If you prefer reading: (scroll down to about the part where you see a koala, then read.)
-
-If you prefer videos, [I've got videos!](https://www.youtube.com/watch?annotation_id=annotation_2675912455&feature=iv&src_vid=HpyrfR1DUlc&v=ULhv96NdF_Q)
-
+Today's project is really simple!
+https://www.youtube.com/watch?v=VuN8qwZoego
 
 
 ## Step 2 (Approx. time: 5min):
 
-Find Your Favorite Animal.
-
-~Inspiration~
-Ashley: [Dog](http://www.clker.com/cliparts/2/b/4/0/1326834729956044549Cartoon%20Dog.svg.hi.png)
-
-Sabrina: [Cats] (https://i.pinimg.com/originals/66/a9/b4/66a9b41a69c30c991066f717796d90a5.jpg)
-
-[More](https://www.pinterest.com/pin/526428643928805267/)
+Customize your drum keys. Change the background color, the highlight colors, the background image of the page, keys, and anything else you want to make it more of your style.
 
 
-##Step 3 (Appr. Time: Unkown):
 
-Create your animal in CSS.
-
-
-## Step 4: Create a branch in our Git Repository to upload your finished work.
+## Step 3: Create a branch in our Git Repository to upload your finished work.
 I will personally walk you through this step the first time.
 
 
 # **~~~~~~~~~~~~~~~~~~~~~~**
 Additional Resources:
 
-https://stackoverflow.com/questions/20803489/draw-a-curve-with-css
 
 
 
 Additional Notes:
-Remember not to try so hard today, Make a simple animal, it's only day 1 after all.
+Remember not to try so hard today.
 
 # **~~~~~~~~~~~~~~~~~~~~~~**
 
 How can this project be used in the future?
 
-CSS (Style Sheets) often take a backseat when most think of web design, However with CSS You can achieve amazing, magical effects on any website.
-Today, we make a cute animal, [Eventually we make magic!](https://codepen.io/davidkpiano/pen/kkpGWj)
+You've literally just made a drum kit.. THINK! There are a ton of ways what you've done today can help when building a website, for example, a soundboard! Also you've learned how to make things happen when an object is clicked, it doesn't have to be just play a sound!
