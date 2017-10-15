@@ -31,7 +31,7 @@ If you prefer videos, [I've got videos!](https://www.youtube.com/watch?annotatio
 Find Your Favorite Animal.
 
 ~Inspiration~
-Ashley: [Dog](http://www.clker.com/cliparts/2/b/4/0/1326834729956044549Cartoon%20Dog.svg.hi.png)
+April: [Dog](http://www.clker.com/cliparts/2/b/4/0/1326834729956044549Cartoon%20Dog.svg.hi.png)
 
 Sabrina: [Cats](https://i.pinimg.com/originals/66/a9/b4/66a9b41a69c30c991066f717796d90a5.jpg)
 
