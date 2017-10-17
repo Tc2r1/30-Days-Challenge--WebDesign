@@ -47,7 +47,7 @@
     </div>
   </div>
 
-  <audio data-key="65" src="../sounds/clap.wav"></audio>
+  <audio data-key="65" src="./../sounds/clap.wav"></audio>
   <audio data-key="83" src="../sounds/hihat.wav"></audio>
   <audio data-key="68" src="../sounds/kick.wav"></audio>
   <audio data-key="70" src="../sounds/openhat.wav"></audio>
@@ -58,7 +58,41 @@
   <audio data-key="76" src="../sounds/tink.wav"></audio>
 
 <script>
+const keys = Array.from(document.querySelectorAll('.key'));
 
+keys.forEach(key => key.addEventListener('transitionend', removeTransition));
+window.addEventListener('keydown', playSound);
+
+function playSound(e){
+
+  const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+  const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
+  if(!audio) return;
+
+
+  if(e.keyCode == 65){
+      key.classList.add('playing1');
+  }
+  if(e.keyCode == 68 || e.keyCode == 83){
+    key.classList.add('playing2');
+  }
+  if(e.keyCode == 70 || e.keyCode == 71){
+    key.classList.add('playing3');
+  }
+  if(e.keyCode == 72 || e.keyCode == 74){
+    key.classList.add('playing4');
+  }
+  if(e.keyCode == 75 || e.keyCode == 76){
+    key.classList.add('playing5');
+  }
+  audio.currentTime = 0;
+  audio.play();
+
+}
+function removeTransition(e){
+  if(e.propertyName !== 'transform') return;
+    e.target.classList.remove('playing1', 'playing2', 'playing3', 'playing4','playing5');
+  }
 </script>
 
 
