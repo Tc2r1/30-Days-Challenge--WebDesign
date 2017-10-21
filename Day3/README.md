@@ -1,65 +1,46 @@
-##Todays's Assignment:
+## Todays's Assignment:
 
-#"My Favorite Animal!"
+# "The Hands Of Time."
 
-> ~[Okay, you know programming? So what! That don't impress me much, So you got the code but have you got the touch? don't get me wrong, yeah your syntax is all that, but that wont keep me...](https://youtu.be/jQZTK6xJ1Bw?t=15s)~
+Today's Project aims to show you how javascript is used to connect the CSS and HTML Page and allow you to use them to change things based on what the user does (like clicking a button).
 
-Programming is only half of web design (which is why I think its awesome for artisty people.), The other half is **DESIGN!** When it comes to Design, CSS is your *style sheet*.
-
-Think of CSS as a **Customizable Wardrobe**, and the website as a doll, with CSS you can style it to look however you want.
-
-Today's Project aims to help you fall in love with, and learn of, the abilities of CSS.
-
-** ~~~~~~~~~~~~~~~~~~~~~~ **
-#Project:
-
-Create your favorite animal using pure CSS and a boilerplate Html page (A very basic, almost empty, html page).
+# **~~~~~~~~~~~~~~~~~~~~~~**
+# Project:
+Using CSS and Javascript we are to create a clock face that tells actual time! 
 
 
-##Step 1 (Approx. time: 40min):
+## Step1 (Approx. time: 20-30min):
 
-First learn how to make a Koala!
+Today's project is a combination of day 1 and day 2, We are going to use CSS and Javascript to create a clock!
+https://www.youtube.com/watch?v=xu87YWbr4X0
 
-If you prefer reading: (scroll down to about the part where you see a koala, then read.)
+## Step 2 (Approx. time: 5min):
 
-If you prefer videos, [I've got videos!](https://www.youtube.com/watch?annotation_id=annotation_2675912455&feature=iv&src_vid=HpyrfR1DUlc&v=ULhv96NdF_Q)
+Seperate the CSS Code into it's own file titled "Styles.CSS", Reference it in the Header block of the HTML Index page. 
 
+## Step 3 (Approx. time: 5min):
 
-
-##Step 2 (Approx. time: 5min):
-
-Find Your Favorite Animal.
-
-~Inspiration~
-Ashley: [Dog](http://www.clker.com/cliparts/2/b/4/0/1326834729956044549Cartoon%20Dog.svg.hi.png)
-
-Sabrina: [Cats] (https://i.pinimg.com/originals/66/a9/b4/66a9b41a69c30c991066f717796d90a5.jpg)
-
-[More](https://www.pinterest.com/pin/526428643928805267/)
+Now that you know how to make a clock and animate CSS a bit, Turn our clock into a grandfather clock  using CSS Objects to match the design of a grandfather clock.
 
 
-##Step 3 (Appr. Time: Unkown):
-
-Create your animal in CSS.
-
-
-##Step 4: Create a branch in our Git Repository to upload your finished work.
-I will personally walk you through this step the first time.
+## Step 4: Create a branch in our Git Repository to upload your finished work.
+Create a branch named "day 3 <your name>" and push your changes as you work on this, once you believe it is complete go to github.com and start a pull request. 
 
 
-** ~~~~~~~~~~~~~~~~~~~~~~ **
+# **~~~~~~~~~~~~~~~~~~~~~~**
 Additional Resources:
 
-https://stackoverflow.com/questions/20803489/draw-a-curve-with-css
+Grandfather Clock Ideas: 
+https://www.google.com/search?biw=1680&bih=928&tbm=isch&sa=1&q=grandfather+clock+vector&oq=grandfather+clock+vector&gs_l=psy-ab.3..0.4750.6624.0.6814.11.9.1.0.0.0.284.1054.3j4j1.8.0....0...1.1.64.psy-ab..2.8.962...0i67k1j0i30k1j0i8i30k1.0.mKqRJiOC2dQ
+
 
 
 
 Additional Notes:
-Remember not to try so hard today, Make a simple animal, it's only day 1 after all.
 
-** ~~~~~~~~~~~~~~~~~~~~~~ **
+
+# **~~~~~~~~~~~~~~~~~~~~~~**
 
 How can this project be used in the future?
 
-CSS (Style Sheets) often take a backseat when most think of web design, However with CSS You can achieve amazing, magical effects on any website.
-Today, we make a cute animal, [Eventually we make magic!](https://codepen.io/davidkpiano/pen/kkpGWj)
+You've literally just made a drum kit.. THINK! There are a ton of ways what you've done today can help when building a website, for example, a soundboard! Also you've learned how to make things happen when an object is clicked, it doesn't have to be just play a sound!
